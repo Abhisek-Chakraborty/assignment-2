@@ -43,8 +43,7 @@ body{
     width: 37%;
     padding: 35px;
     margin-top: 0px;
-    /* border: 2px solid saddlebrown; */
-}
+   }
 .content h1{
     font-weight: bold;
     font-size: 52px;
@@ -55,9 +54,6 @@ body{
     font-size: 16px;
     line-height: 24px;
 }
-/* .content>h2, h3{
-    margin: 10px;
-} */
 .button{
     display: inline-block;
     background-color: rgb(230, 16, 87);
@@ -139,7 +135,6 @@ body{
 }
 
 .footer-content{
-    /* width: 100%; */
     background-color: rgb(4, 4, 53);
     color: white;
     text-align: center;
